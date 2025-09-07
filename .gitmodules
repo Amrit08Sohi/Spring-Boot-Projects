@@ -1,0 +1,4 @@
+[submodule "SpringSecurity"]
+	path = SpringSecurity
+	url = https://github.com/Amrit08Sohi/SpringSecurity.git
+	branch = master
